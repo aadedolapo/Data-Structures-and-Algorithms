@@ -1,0 +1,11 @@
+C:\Users\kings\OneDrive - MMU\MSC DATA SCIENCE\Data structures & Algorithms\assessment\Exercise3\Task B\bin\Debug\Task B.exe.config
+C:\Users\kings\OneDrive - MMU\MSC DATA SCIENCE\Data structures & Algorithms\assessment\Exercise3\Task B\bin\Debug\Task B.exe
+C:\Users\kings\OneDrive - MMU\MSC DATA SCIENCE\Data structures & Algorithms\assessment\Exercise3\Task B\bin\Debug\Task B.pdb
+C:\Users\kings\OneDrive - MMU\MSC DATA SCIENCE\Data structures & Algorithms\assessment\Exercise3\Task B\obj\Debug\Task B.csproj.AssemblyReference.cache
+C:\Users\kings\OneDrive - MMU\MSC DATA SCIENCE\Data structures & Algorithms\assessment\Exercise3\Task B\obj\Debug\Task B.csproj.SuggestedBindingRedirects.cache
+C:\Users\kings\OneDrive - MMU\MSC DATA SCIENCE\Data structures & Algorithms\assessment\Exercise3\Task B\obj\Debug\Task_B.Form1.resources
+C:\Users\kings\OneDrive - MMU\MSC DATA SCIENCE\Data structures & Algorithms\assessment\Exercise3\Task B\obj\Debug\Task_B.Properties.Resources.resources
+C:\Users\kings\OneDrive - MMU\MSC DATA SCIENCE\Data structures & Algorithms\assessment\Exercise3\Task B\obj\Debug\Task B.csproj.GenerateResource.cache
+C:\Users\kings\OneDrive - MMU\MSC DATA SCIENCE\Data structures & Algorithms\assessment\Exercise3\Task B\obj\Debug\Task B.csproj.CoreCompileInputs.cache
+C:\Users\kings\OneDrive - MMU\MSC DATA SCIENCE\Data structures & Algorithms\assessment\Exercise3\Task B\obj\Debug\Task B.exe
+C:\Users\kings\OneDrive - MMU\MSC DATA SCIENCE\Data structures & Algorithms\assessment\Exercise3\Task B\obj\Debug\Task B.pdb
