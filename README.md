@@ -1,3 +1,3 @@
 # Data-Structures-and-Algorithms
 
-A work containing tasks I worked on whilst leaning more about Data Strcutures and Algorithm using C# Programming lanaguage.
+A work containing tasks I worked on whilst learning more about Data Structures and Algorithms using C# Programming language
